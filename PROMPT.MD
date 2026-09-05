@@ -1,4 +1,4 @@
-# Banco de Prompts — []
+# Banco de Prompts — [Mario Villatoro]
 
 Colección de prompts reutilizables, probados y documentados, organizados por caso de uso.
 Cada entrada sigue la misma plantilla: **Objetivo → Elementos aplicados → Prompt → Ejemplo probado → Notas de iteración**.

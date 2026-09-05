@@ -28,9 +28,10 @@ Actúa como un editor técnico especializado en documentación de software. Resu
 - Entrada (`Node.js 22 ha sido lanzado con varias mejoras sustanciales para los desarrolladores. Entre sus características principales se encuentra el soporte nativo para cargar archivos de configuración .env sin necesidad de utilizar paquetes externos como dotenv. Además, la API integrada para la ejecución de pruebas (test runner) ha alcanzado la fase de estabilidad completa, permitiendo escribir suites de prueba sin dependencias de terceros. Por último, se implementaron optimizaciones profundas en el motor V8 que reducen la latencia del recolector de basura bajo cargas de trabajo pesadas de memoria.`): 
 
 - Salida obtenida: 
- Node.js 22 incorpora soporte nativo para archivos .env sin librerías externas. Se estabiliza el módulo de test runner integrado.
-
-Mejora el rendimiento del recolector de basura en cargas intensivas de memoria.
+ - Node.js 22 incorpora soporte nativo para archivos
+- .env sin librerías externas.
+-  Se estabiliza el módulo de test runner integrado.
+- Mejora el rendimiento del recolector de basura en cargas intensivas de memoria.
 
 **Notas de iteración:** 
 La versión 1 del prompt no pedía el formato en lista y el modelo devolvía un párrafo continuo, se agrego "Devuelve el resumen como una lista de viñetas" para solucionar el problema.

@@ -67,7 +67,7 @@ Campos requeridos en el JSON:
 }
 
 **Notas de iteración:**
-En la v1 el modelo incluía bloques explicativos como "Aquí tienes el JSON solicitado:". Se añadió la restricción "estrictamente en formato JSON válido sin texto ni explicaciones adicionales" para garantizar que la salida sea directamente parseable.
+En la v1 el modelo incluía bloques explicativos como "Aquí tienes el JSON solicitado:". Se añadió la restricción "estrictamente en formato JSON válido sin texto ni explicaciones adicionales".
 
 ---
 
